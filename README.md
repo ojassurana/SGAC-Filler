@@ -1,6 +1,10 @@
 # Singapore Arrival Card Telegram Bot
 
-A Telegram bot that helps users submit their Singapore Arrival Card automatically (including avoiding captcha), with full PDPA compliance and user data management features.
+**🤖 Bot:** [@SGAC_filler_bot](https://t.me/SGAC_filler_bot)  
+**📄 Privacy Policy:** [View Document](https://docs.google.com/document/d/1gc5WjsPp8KS6Is4FWrfEiZcODx1_0po76Qsiq6fxyUM/edit?usp=sharing)  
+**📋 Terms & Conditions:** [View Document](https://docs.google.com/document/d/12W7b2xAbcxVBbfdcpU1xvMPcv_2gsk1D0ar0had1LsI/edit?usp=sharing)
+
+⚡️ Skip the hassle of manual form filling! This smart Telegram bot instantly submits your Singapore Arrival Card in seconds. A seamless one-time setup that lets you breeze through future submissions. Perfect for frequent travelers and residents returning to Singapore! 🇸🇬✈️
 
 ## Features
 
